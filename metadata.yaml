@@ -1,0 +1,46 @@
+_repo: Les-Climats_68719
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schmied, François-Louis
+    gutenberg_agent_id: '54913'
+    url: http://www.gutenberg.org/2009/agents/54913
+creator:
+  author:
+    agent_name: Noailles, Anna de
+    aliases:
+    - Noailles, Mathieu de, comtesse
+    - De Noailles, Anna
+    - De Brancovan Noailles, Anna Elisabeth, comtesse
+    - Noailles, comtesse de
+    - Brancovan, Anna de
+    - Brancovan Noailles, Anna Elisabeth de, comtesse
+    - De Noailles, Ana
+    - Noailles, Ana-Elisabeta
+    birthdate: 1876
+    deathdate: 1933
+    gutenberg_agent_id: '25065'
+    url: http://www.gutenberg.org/2009/agents/25065
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Anna_de_Noailles
+    - https://en.wikipedia.org/wiki/Anna_de_Noailles
+description: ''
+gutenberg_issued: '2022-08-09'
+identifiers:
+  gutenberg: '68719'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k852384k
+pgterms:marc905: 20201011052055noailles
+pgterms:marc906: '1924'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Société du livre contemporain,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les Climats
+url: http://www.gutenberg.org/ebooks/68719
