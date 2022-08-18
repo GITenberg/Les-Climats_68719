@@ -5,6 +5,9 @@ contributor:
     agent_name: Schmied, François-Louis
     gutenberg_agent_id: '54913'
     url: http://www.gutenberg.org/2009/agents/54913
+covers:
+- cover_type: archival
+  image_path: 68719-h/images/cover.jpg
 creator:
   author:
     agent_name: Noailles, Anna de
@@ -25,6 +28,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Anna_de_Noailles
     - https://en.wikipedia.org/wiki/Anna_de_Noailles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68719#Les-Climats
 gutenberg_issued: '2022-08-09'
 identifiers:
   gutenberg: '68719'
